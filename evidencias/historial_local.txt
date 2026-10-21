@@ -1,0 +1,4 @@
+ffca5b9 | 2026-10-20T22:49:43-05:00 | docs: definir alcance y diseno del prototipo
+1797134 | 2026-10-20T22:50:19-05:00 | feat: agregar validacion algoritmos y persistencia JSON
+cbd8be5 | 2026-10-20T22:52:28-05:00 | feat: completar menu y verificar 14 escenarios sinteticos
+e3ab9aa | 2026-10-20T22:59:36-05:00 | docs: documentar SUNAT fuentes flujo pruebas y evidencias pendientes

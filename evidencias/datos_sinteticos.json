@@ -1,0 +1,11 @@
+[
+  {
+    "codigo": "EXP-000001",
+    "dni": "00000001",
+    "nombres": "Persona Prueba Uno",
+    "asunto": "Solicitud ficticia de demostración",
+    "area": "Administrativos",
+    "fecha": "2026-10-20",
+    "estado": "RECIBIDO"
+  }
+]

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="495" height="525" preserveAspectRatio="xMinYMin meet" viewBox="0 0 495 525" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="495" height="525"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-525)" style="clip-path: url(#clip)">
+		<g transform="">
+			<ellipse cx="247.5" cy="496.0" rx="62.5" ry="16.0" style="stroke: rgb(3%,49%,52%); stroke-linecap: butt; stroke-width: 1; fill: rgb(93%,96%,96%); fill-rule: evenodd;"/>
+			<text x="236.994873046875" y="493.0" style="font-family: Arial; font-size: 9px;fill: rgb(8%,18%,29%); stroke:none;" transform="translate(0,986) scale(1,-1)">Inicio</text>
+			<rect x="160" y="411" width="175" height="42" rx="6" ry="0" style="stroke: rgb(3%,49%,52%); stroke-linecap: butt; stroke-width: 1; fill: rgb(93%,96%,96%); fill-rule: evenodd;"/>
+			<text x="214.48828125" y="434.0" style="font-family: Arial; font-size: 9px;fill: rgb(8%,18%,29%); stroke:none;" transform="translate(0,868) scale(1,-1)">Cargar archivo y</text>
+			<text x="214.2333984375" y="423.0" style="font-family: Arial; font-size: 9px;fill: rgb(8%,18%,29%); stroke:none;" transform="translate(0,846) scale(1,-1)">validar colección</text>
+			<polygon points="175 354.5, 247.5 382, 320 354.5, 247.5 327" style="stroke: rgb(3%,49%,52%); stroke-linecap: butt; stroke-width: 1; fill: rgb(93%,96%,96%); fill-rule: evenodd;"/>
+			<text x="212.486572265625" y="351.5" style="font-family: Arial; font-size: 9px;fill: rgb(8%,18%,29%); stroke:none;" transform="translate(0,703) scale(1,-1)">¿Carga correcta?</text>
+			<rect x="355" y="333" width="135" height="43" rx="6" ry="0" style="stroke: rgb(3%,49%,52%); stroke-linecap: butt; stroke-width: 1; fill: rgb(93%,96%,96%); fill-rule: evenodd;"/>
+			<text x="395.247314453125" y="356.5" style="font-family: Arial; font-size: 9px;fill: rgb(8%,18%,29%); stroke:none;" transform="translate(0,713) scale(1,-1)">Mostrar error;</text>
+			<text x="386.985595703125" y="345.5" style="font-family: Arial; font-size: 9px;fill: rgb(8%,18%,29%); stroke:none;" transform="translate(0,691) scale(1,-1)">conservar archivo</text>
+			<ellipse cx="422.0" cy="287.0" rx="45.0" ry="15.0" style="stroke: rgb(3%,49%,52%); stroke-linecap: butt; stroke-width: 1; fill: rgb(93%,96%,96%); fill-rule: evenodd;"/>
+			<text x="415.748779296875" y="284.0" style="font-family: Arial; font-size: 9px;fill: rgb(8%,18%,29%); stroke:none;" transform="translate(0,568) scale(1,-1)">Fin</text>
+			<polygon points="180 270, 328 270, 316 310, 168 310" style="stroke: rgb(3%,49%,52%); stroke-linecap: butt; stroke-width: 1; fill: rgb(93%,96%,96%); fill-rule: evenodd;"/>
+			<text x="220.241943359375" y="292.0" style="font-family: Arial; font-size: 9px;fill: rgb(8%,18%,29%); stroke:none;" transform="translate(0,584) scale(1,-1)">Mostrar menú</text>
+			<text x="222.4853515625" y="281.0" style="font-family: Arial; font-size: 9px;fill: rgb(8%,18%,29%); stroke:none;" transform="translate(0,562) scale(1,-1)">y leer opción</text>
+			<polygon points="203 231, 247 250, 291 231, 247 212" style="stroke: rgb(3%,49%,52%); stroke-linecap: butt; stroke-width: 1; fill: rgb(93%,96%,96%); fill-rule: evenodd;"/>
+			<text x="232.741943359375" y="228.0" style="font-family: Arial; font-size: 9px;fill: rgb(8%,18%,29%); stroke:none;" transform="translate(0,456) scale(1,-1)">Opción</text>
+			<path d="M 247,480 L 247,453 Z" style="stroke: rgb(31%,37%,44%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="247 453, 244 459, 250 459" style="stroke: rgb(31%,37%,44%); stroke-linecap: butt; stroke-width: 1; fill: rgb(31%,37%,44%); fill-rule: evenodd;"/>
+			<path d="M 247,411 L 247,382 Z" style="stroke: rgb(31%,37%,44%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="247 382, 244 388, 250 388" style="stroke: rgb(31%,37%,44%); stroke-linecap: butt; stroke-width: 1; fill: rgb(31%,37%,44%); fill-rule: evenodd;"/>
+			<path d="M 320,354 L 355,354 Z" style="stroke: rgb(31%,37%,44%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="355 354, 349 351, 349 357" style="stroke: rgb(31%,37%,44%); stroke-linecap: butt; stroke-width: 1; fill: rgb(31%,37%,44%); fill-rule: evenodd;"/>
+			<text x="332.88671875" y="366" style="font-family: Arial; font-size: 8px;fill: rgb(8%,18%,29%); stroke:none;" transform="translate(0,732) scale(1,-1)">No</text>
+			<path d="M 422,333 L 422,302 Z" style="stroke: rgb(31%,37%,44%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="422 302, 419 308, 425 308" style="stroke: rgb(31%,37%,44%); stroke-linecap: butt; stroke-width: 1; fill: rgb(31%,37%,44%); fill-rule: evenodd;"/>
+			<path d="M 247,327 L 247,310 Z" style="stroke: rgb(31%,37%,44%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="247 310, 244 316, 250 316" style="stroke: rgb(31%,37%,44%); stroke-linecap: butt; stroke-width: 1; fill: rgb(31%,37%,44%); fill-rule: evenodd;"/>
+			<text x="256.220703125" y="314" style="font-family: Arial; font-size: 8px;fill: rgb(8%,18%,29%); stroke:none;" transform="translate(0,628) scale(1,-1)">Sí</text>
+			<path d="M 247,270 L 247,250 Z" style="stroke: rgb(31%,37%,44%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="247 250, 244 256, 250 256" style="stroke: rgb(31%,37%,44%); stroke-linecap: butt; stroke-width: 1; fill: rgb(31%,37%,44%); fill-rule: evenodd;"/>
+			<rect x="22" y="123" width="110" height="47" rx="6" ry="0" style="stroke: rgb(3%,49%,52%); stroke-linecap: butt; stroke-width: 1; fill: rgb(93%,96%,96%); fill-rule: evenodd;"/>
+			<text x="58.7451171875" y="148.5" style="font-family: Arial; font-size: 9px;fill: rgb(8%,18%,29%); stroke:none;" transform="translate(0,297) scale(1,-1)">Registrar</text>
+			<text x="38.47753906249999" y="137.5" style="font-family: Arial; font-size: 9px;fill: rgb(8%,18%,29%); stroke:none;" transform="translate(0,275) scale(1,-1)">(ver pseudocódigo)</text>
+			<path d="M 247,212 L 247,191 Z" style="stroke: rgb(31%,37%,44%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 247,191 L 77,191 Z" style="stroke: rgb(31%,37%,44%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 77,191 L 77,170 Z" style="stroke: rgb(31%,37%,44%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="77 170, 74 176, 80 176" style="stroke: rgb(31%,37%,44%); stroke-linecap: butt; stroke-width: 1; fill: rgb(31%,37%,44%); fill-rule: evenodd;"/>
+			<text x="74.775390625" y="202" style="font-family: Arial; font-size: 8px;fill: rgb(8%,18%,29%); stroke:none;" transform="translate(0,404) scale(1,-1)">1</text>
+			<rect x="145" y="123" width="110" height="47" rx="6" ry="0" style="stroke: rgb(3%,49%,52%); stroke-linecap: butt; stroke-width: 1; fill: rgb(93%,96%,96%); fill-rule: evenodd;"/>
+			<text x="163.729736328125" y="148.5" style="font-family: Arial; font-size: 9px;fill: rgb(8%,18%,29%); stroke:none;" transform="translate(0,297) scale(1,-1)">Buscar por código</text>
+			<text x="161.486328125" y="137.5" style="font-family: Arial; font-size: 9px;fill: rgb(8%,18%,29%); stroke:none;" transform="translate(0,275) scale(1,-1)">y mostrar resultado</text>
+			<path d="M 247,212 L 247,191 Z" style="stroke: rgb(31%,37%,44%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 247,191 L 200,191 Z" style="stroke: rgb(31%,37%,44%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 200,191 L 200,170 Z" style="stroke: rgb(31%,37%,44%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="200 170, 197 176, 203 176" style="stroke: rgb(31%,37%,44%); stroke-linecap: butt; stroke-width: 1; fill: rgb(31%,37%,44%); fill-rule: evenodd;"/>
+			<text x="197.775390625" y="202" style="font-family: Arial; font-size: 8px;fill: rgb(8%,18%,29%); stroke:none;" transform="translate(0,404) scale(1,-1)">2</text>
+			<rect x="268" y="123" width="110" height="47" rx="6" ry="0" style="stroke: rgb(3%,49%,52%); stroke-linecap: butt; stroke-width: 1; fill: rgb(93%,96%,96%); fill-rule: evenodd;"/>
+			<text x="294.48388671875" y="148.5" style="font-family: Arial; font-size: 9px;fill: rgb(8%,18%,29%); stroke:none;" transform="translate(0,297) scale(1,-1)">Ordenar copia</text>
+			<text x="294.995849609375" y="137.5" style="font-family: Arial; font-size: 9px;fill: rgb(8%,18%,29%); stroke:none;" transform="translate(0,275) scale(1,-1)">y mostrar lista</text>
+			<path d="M 247,212 L 247,191 Z" style="stroke: rgb(31%,37%,44%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 247,191 L 323,191 Z" style="stroke: rgb(31%,37%,44%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 323,191 L 323,170 Z" style="stroke: rgb(31%,37%,44%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="323 170, 320 176, 326 176" style="stroke: rgb(31%,37%,44%); stroke-linecap: butt; stroke-width: 1; fill: rgb(31%,37%,44%); fill-rule: evenodd;"/>
+			<text x="320.775390625" y="202" style="font-family: Arial; font-size: 8px;fill: rgb(8%,18%,29%); stroke:none;" transform="translate(0,404) scale(1,-1)">3</text>
+			<ellipse cx="446.0" cy="146.5" rx="45.0" ry="23.5" style="stroke: rgb(3%,49%,52%); stroke-linecap: butt; stroke-width: 1; fill: rgb(93%,96%,96%); fill-rule: evenodd;"/>
+			<text x="439.748779296875" y="143.5" style="font-family: Arial; font-size: 9px;fill: rgb(8%,18%,29%); stroke:none;" transform="translate(0,287) scale(1,-1)">Fin</text>
+			<path d="M 247,212 L 247,191 Z" style="stroke: rgb(31%,37%,44%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 247,191 L 446,191 Z" style="stroke: rgb(31%,37%,44%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 446,191 L 446,170 Z" style="stroke: rgb(31%,37%,44%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="446 170, 443 176, 449 176" style="stroke: rgb(31%,37%,44%); stroke-linecap: butt; stroke-width: 1; fill: rgb(31%,37%,44%); fill-rule: evenodd;"/>
+			<text x="443.775390625" y="202" style="font-family: Arial; font-size: 8px;fill: rgb(8%,18%,29%); stroke:none;" transform="translate(0,404) scale(1,-1)">4</text>
+			<path d="M 77,123 L 77,103 Z" style="stroke: rgb(31%,37%,44%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 77,103 L 8,103 Z" style="stroke: rgb(31%,37%,44%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 8,103 L 8,290 Z" style="stroke: rgb(31%,37%,44%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 8,290 L 174,290 Z" style="stroke: rgb(31%,37%,44%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="174 290, 168 287, 168 293" style="stroke: rgb(31%,37%,44%); stroke-linecap: butt; stroke-width: 1; fill: rgb(31%,37%,44%); fill-rule: evenodd;"/>
+			<path d="M 200,123 L 200,103 Z" style="stroke: rgb(31%,37%,44%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 200,103 L 8,103 Z" style="stroke: rgb(31%,37%,44%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 8,103 L 8,290 Z" style="stroke: rgb(31%,37%,44%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 8,290 L 174,290 Z" style="stroke: rgb(31%,37%,44%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="174 290, 168 287, 168 293" style="stroke: rgb(31%,37%,44%); stroke-linecap: butt; stroke-width: 1; fill: rgb(31%,37%,44%); fill-rule: evenodd;"/>
+			<path d="M 323,123 L 323,103 Z" style="stroke: rgb(31%,37%,44%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 323,103 L 8,103 Z" style="stroke: rgb(31%,37%,44%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 8,103 L 8,290 Z" style="stroke: rgb(31%,37%,44%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 8,290 L 174,290 Z" style="stroke: rgb(31%,37%,44%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="174 290, 168 287, 168 293" style="stroke: rgb(31%,37%,44%); stroke-linecap: butt; stroke-width: 1; fill: rgb(31%,37%,44%); fill-rule: evenodd;"/>
+			<text x="135.952392578125" y="84" style="font-family: Arial; font-size: 9px;fill: rgb(8%,18%,29%); stroke:none;" transform="translate(0,168) scale(1,-1)">Opción distinta de 1 a 4: mostrar error y volver al menú.</text>
+			<text x="110.67504882812497" y="56" style="font-family: Arial; font-size: 9px;fill: rgb(8%,18%,29%); stroke:none;" transform="translate(0,112) scale(1,-1)">Interrupción de entrada: finalizar conservando las altas confirmadas.</text>
+		</g>
+	</g>
+</svg>

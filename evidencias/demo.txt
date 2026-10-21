@@ -1,0 +1,30 @@
+DEMOSTRACIÓN REAL - DATOS FICTICIOS
+Fecha Lima: 2026-10-20T22:54:01-05:00
+
+PRIMERA EJECUCIÓN
+MESA DE PARTES - PROTOTIPO ACADÉMICO / CASO SUNAT
+Simulación local: no presenta trámites ante SUNAT.
+Registros cargados: 0
+
+1. Registrar  2. Buscar  3. Listar ordenados  4. Salir
+Opción: DNI: Nombres: Asunto: Área o tipo de trámite (referencia académica): Registrado y guardado: EXP-000001
+
+1. Registrar  2. Buscar  3. Listar ordenados  4. Salir
+Opción: Código: codigo: EXP-000001 | dni: 00000001 | nombres: Persona Prueba Uno | asunto: Solicitud ficticia de demostración | area: Administrativos | fecha: 2026-10-20 | estado: RECIBIDO
+
+1. Registrar  2. Buscar  3. Listar ordenados  4. Salir
+Opción: codigo: EXP-000001 | dni: 00000001 | nombres: Persona Prueba Uno | asunto: Solicitud ficticia de demostración | area: Administrativos | fecha: 2026-10-20 | estado: RECIBIDO
+
+1. Registrar  2. Buscar  3. Listar ordenados  4. Salir
+Opción: Fin. Los registros confirmados ya están guardados.
+
+REINICIO DEL PROGRAMA
+MESA DE PARTES - PROTOTIPO ACADÉMICO / CASO SUNAT
+Simulación local: no presenta trámites ante SUNAT.
+Registros cargados: 1
+
+1. Registrar  2. Buscar  3. Listar ordenados  4. Salir
+Opción: Código: codigo: EXP-000001 | dni: 00000001 | nombres: Persona Prueba Uno | asunto: Solicitud ficticia de demostración | area: Administrativos | fecha: 2026-10-20 | estado: RECIBIDO
+
+1. Registrar  2. Buscar  3. Listar ordenados  4. Salir
+Opción: Fin. Los registros confirmados ya están guardados.

@@ -1,0 +1,24 @@
+EJECUCIÓN REAL CON DATOS SINTÉTICOS
+Fecha y hora de Lima: 2026-10-20T22:54:01-05:00
+Comando: python -m unittest discover -s tests -v
+Python: 3.12.14
+
+test_01_archivo_inexistente (test_sistema.PruebasSistema.test_01_archivo_inexistente) ... ok
+test_02_registro_valido_y_normalizacion (test_sistema.PruebasSistema.test_02_registro_valido_y_normalizacion) ... ok
+test_03_dni_invalido (test_sistema.PruebasSistema.test_03_dni_invalido) ... ok
+test_04_campos_vacios_y_limites (test_sistema.PruebasSistema.test_04_campos_vacios_y_limites) ... ok
+test_05_busqueda_existente_ausente_y_formato (test_sistema.PruebasSistema.test_05_busqueda_existente_ausente_y_formato) ... ok
+test_06_ordenamiento_y_no_mutacion (test_sistema.PruebasSistema.test_06_ordenamiento_y_no_mutacion) ... ok
+test_07_persistencia_y_siguiente_codigo (test_sistema.PruebasSistema.test_07_persistencia_y_siguiente_codigo) ... ok
+test_08_codigo_usa_maximo_y_detecta_agotamiento (test_sistema.PruebasSistema.test_08_codigo_usa_maximo_y_detecta_agotamiento) ... ok
+test_09_archivo_corrupto_no_se_sobrescribe (test_sistema.PruebasSistema.test_09_archivo_corrupto_no_se_sobrescribe) ... ok
+test_10_esquema_fecha_y_duplicados (test_sistema.PruebasSistema.test_10_esquema_fecha_y_duplicados) ... ok
+test_11_fallo_reemplazo_preserva_archivo (test_sistema.PruebasSistema.test_11_fallo_reemplazo_preserva_archivo) ... ok
+test_12_fallo_guardado_no_confirma_alta (test_sistema.PruebasSistema.test_12_fallo_guardado_no_confirma_alta) ... ok
+test_13_menu_flujo_completo_y_reinicio (test_sistema.PruebasSistema.test_13_menu_flujo_completo_y_reinicio) ... ok
+test_14_interrupcion_y_utf8_invalido (test_sistema.PruebasSistema.test_14_interrupcion_y_utf8_invalido) ... ok
+
+----------------------------------------------------------------------
+Ran 14 tests in 0.022s
+
+OK

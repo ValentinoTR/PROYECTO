@@ -28,14 +28,29 @@ Un operador y una instancia del programa a la vez. Admite personas identificadas
 
 El historial Git registra avances reales de esta sesión, con autoría identificada como asistencia de IA; no representa trabajo previo del equipo. Repositorio de destino: https://github.com/ValentinoTR/PROYECTO. Completar sede de SUNAT, integrantes, fotografías fechadas, entrevista, tiempos y pruebas de campo antes de presentar como informe de trabajo real. Adjuntar el formato oficial de declaración de uso de IA del aula virtual.
 
-## Publicación en GitHub
+## Repositorio y paquete
 
-Una vez elegido un repositorio vacío, desde esta carpeta ejecutar:
+Repositorio: https://github.com/ValentinoTR/PROYECTO. Para continuar el trabajo publicado, clonar ese repositorio. El ZIP incluye el informe PDF, su versión editable Markdown, diagramas, evidencias y un archivo `historial.bundle` que conserva el historial local. El historial remoto y el local tienen identificadores distintos porque se publicaron por mecanismos diferentes; ambos corresponden a esta sesión.
 
 ```text
-git remote add origin URL_REAL_DEL_REPOSITORIO
-git push -u origin main
+git clone https://github.com/ValentinoTR/PROYECTO.git
 ```
 
-Reemplazar el texto `URL_REAL_DEL_REPOSITORIO` por el enlace real. La carpeta `.git` y el archivo `historial.bundle` incluido en el paquete conservan el historial. El bundle se puede restaurar con `git clone historial.bundle mesa_partes_restaurada`.
+Para recuperar únicamente el historial local desde el paquete:
 
+```text
+git clone historial.bundle mesa_partes_restaurada
+```
+
+No se debe forzar una subida del historial local sobre el remoto. El ZIP no necesita incluir la carpeta oculta `.git`: el bundle permite reconstruirla.
+
+## Informe y evidencias
+
+- `documentacion/Informe_SUNAT_Pasos_1_al_6.pdf`: informe para leer.
+- `documentacion/Informe_editable.md`: texto editable con tablas y pseudocódigo.
+- `documentacion/diagrama.svg`: diagrama editable en formato vectorial.
+- `evidencias/pruebas.txt`: salida íntegra de las pruebas ejecutadas.
+- `evidencias/demo.txt`: salida de registro y consulta tras reiniciar.
+- `evidencias/*.png`: renderizaciones del código y las salidas reales.
+
+El informe contiene los formularios pendientes de campo; deben completarse con observaciones reales y autorizadas. Fuente de referencia de SUNAT: https://orientacion.sunat.gob.pe/mesa-de-partes-virtual.
